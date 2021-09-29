@@ -1,4 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Ramlan
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Rian Senpai
 <p align="center">
 <p align='center'><a href="https://www.instagram.com/kiyomizu.miyuki/"><img height="200" src="https://github.com/mfnriankun/mfnbot/blob/master/src/image/thumbnail.jpeg"></a>&nbsp;&nbsp;</p>
 </p>
@@ -49,15 +49,15 @@ Siapin alat dan bahannya.
 Buka nih [`Ramlan.json`](https://github.com/Ramlan404/babybot/edit/main/settings/Ramlan.json). Apikey Free Tinggal regist [`ZEKS API`](https://api.lolhuman.xyz/login).
 ```json
 {
-    "botName": "BABY BOT",
-    "ownerName": "RAMLAN ID",
+    "botName": "Mfn Bot 3.0",
+    "ownerName": "Rian Senpai",
     "ownerNumbers": "62855xxxxxxxx",
     "ZeksApi": "apivinz",
     "botPrefix": "!",
     "GrupLimitz": "0",
-    "autor": "MrR4M",
-    "peknem": "BABY-BOT",
-    "CeerTod": "*BABY BOTZ VERIFIED*"
+    "autor": "Rian Senpai",
+    "peknem": "Mfn Bot",
+    "CeerTod": "*🔰Mfn Bot 3.0🔰*"
 }
 
 ```
@@ -71,11 +71,11 @@ Buka nih [`Ramlan.json`](https://github.com/Ramlan404/babybot/edit/main/settings
 > pkg install git -y
 > pkg install bash -y
 > pkg install mc -y
-> git clone https://github.com/Ramlan404/babybot
-> cd babybot
+> git clone https://github.com/mfnriankun/mfnbot
+> cd 1
 > bash install.sh
 > npm start
-> SCAN DAH BRO MHEHE EZ KAN:V
+> SCAN
 ```
 
 

@@ -1,5 +1,5 @@
 ## `Deploy`
-[![deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mfnriankun/mfnbot/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)(https://heroku.com/deploy?template=https://github.com/mfnriankun/mfnbot/)]
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Rian Senpai
 <p align="center">

@@ -1,3 +1,6 @@
+## `Deploy`
+[![deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mfnriankun/mfnbot/)
+
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Rian Senpai
 <p align="center">
 <p align='center'><a href="https://www.instagram.com/kiyomizu.miyuki/"><img height="200" src="https://github.com/mfnriankun/mfnbot/blob/master/src/image/thumbnail.jpeg"></a>&nbsp;&nbsp;</p>
@@ -12,8 +15,6 @@
  
 </details>
 
-## `Deploy`
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mfnriankun/mfnbot/)
 
 ### WARNING
 MAU RE-UPLOAD SCRIPT? KASIH NAMA SAYA....

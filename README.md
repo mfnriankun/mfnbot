@@ -5,7 +5,6 @@
 <br>
 
 
-
 </p>
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" alt="Mario Game" width="600" />
 <div align="center">
@@ -13,6 +12,8 @@
  
 </details>
 
+## `Deploy'
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mfnriankun/mfnbot/)
 
 ### WARNING
 MAU RE-UPLOAD SCRIPT? KASIH NAMA SAYA....
